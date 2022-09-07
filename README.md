@@ -22,4 +22,17 @@ Other locations to visit near to the museum
 
 [Link to AboutMe](https://github.com/rayudu1018/assignment2-Adapa/blob/main/AboutMe.md)
 
+------
+
+## Creating table that contain locations to visit
+
+table contains the locations and time required to spent
+
+| City Name | Locations in City | Time to spent |
+| ----      | ---             |   --------- |
+| Chennai beach | Marina |   5hours |
+| IIT Madras | Taramani | 6hours |
+| Koimbatore | TN | 4hours |
+| Isha Foundation | Koimbatore | 7hours |
+
 
