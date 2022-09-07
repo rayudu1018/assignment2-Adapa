@@ -19,3 +19,7 @@ Other locations to visit near to the museum
 * Albrecht-Kemper Museum of Art
 * Kemper Museum of Contemporary Art
 * Nelson-Atkins Museum of Art
+
+
+
+
