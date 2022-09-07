@@ -45,3 +45,19 @@ By: *APJ Abdul Kalam*
 > 2. If we have no peace, it is because we have fogotten that we belong to each other.
 By: *Mother Teresa*
 
+-------
+
+## Section 4 Code Fencing
+
+
+>JQuery how to build a ListBox from 2 array String
+
+find answer here:https://stackoverflow.com/questions/73641682/jquery-how-to-build-a-listbox-from-2-array-string
+
+<script type="text/javascript">    
+   var listArray = ["11","221","7"];     // Uniq ID 
+   var listThing = ["cow", "dog", "cat"]; 
+ </script>
+
+ snippet link:https://css-tricks.com/snippets/jquery/
+
