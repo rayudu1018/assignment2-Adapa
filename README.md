@@ -35,4 +35,13 @@ table contains the locations and time required to spent
 | Koimbatore | TN | 4hours |
 | Isha Foundation | Koimbatore | 7hours |
 
+-------
+
+## Section of Qotes
+
+> 1. Man Need difficulities because to enjoy the success that they need to enjoy.
+By: *APJ Abdul Kalam*
+
+> 2. If we have no peace, it is because we have fogotten that we belong to each other.
+By: *Mother Teresa*
 
