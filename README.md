@@ -50,14 +50,22 @@ By: *Mother Teresa*
 ## Section 4 Code Fencing
 
 
->JQuery how to build a ListBox from 2 array String
+>Smooth Scrolling
 
-find answer here:https://stackoverflow.com/questions/73641682/jquery-how-to-build-a-listbox-from-2-array-string
+find answer :<https://stackoverflow.com/questions/7717527/smooth-scrolling-when-clicking-an-anchor-link>
 
-<script type="text/javascript">    
-   var listArray = ["11","221","7"];     // Uniq ID 
-   var listThing = ["cow", "dog", "cat"]; 
- </script>
 
- snippet link:https://css-tricks.com/snippets/jquery/
+```
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+        });
+    });
+});
+
+```
+Snippet link:<https://css-tricks.com/snippets/jquery/smooth-scrolling/>
 
